@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://8x85dbyhhwva"]
+
+[ext_resource type="SpriteFrames" uid="uid://ck1vubnsca3d1" path="res://addons/cabra.lat_cursor/CursorAnimations.tres" id="1_fepi7"]
+[ext_resource type="Script" uid="uid://rgc7dhkftef" path="res://addons/cabra.lat_cursor/cursor.gd" id="2_j3yuo"]
+
+[node name="Cursor3D" type="AnimatedSprite2D"]
+scale = Vector2(0.3, 0.3)
+sprite_frames = ExtResource("1_fepi7")
+animation = &"pointing_hand"
+script = ExtResource("2_j3yuo")
+metadata/_custom_type_script = "uid://rgc7dhkftef"

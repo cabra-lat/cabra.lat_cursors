@@ -1,0 +1,41 @@
+[gd_resource type="SpriteFrames" load_steps=5 format=3 uid="uid://ck1vubnsca3d1"]
+
+[ext_resource type="Texture2D" uid="uid://ccd0i6p2hmg7e" path="res://addons/cabra.lat_cursor/assets/pull.png" id="1_58t8v"]
+[ext_resource type="Texture2D" uid="uid://diveboxs5hyrk" path="res://addons/cabra.lat_cursor/assets/cross_small.png" id="2_hovrm"]
+[ext_resource type="Texture2D" uid="uid://ircx34i6cdkq" path="res://addons/cabra.lat_cursor/assets/cursor.png" id="3_0vkk3"]
+[ext_resource type="Texture2D" uid="uid://cwqud7wx1eipb" path="res://addons/cabra.lat_cursor/assets/interact.png" id="4_4mygw"]
+
+[resource]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_58t8v")
+}],
+"loop": true,
+"name": &"closed_hand",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_hovrm")
+}],
+"loop": true,
+"name": &"cross",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("3_0vkk3")
+}],
+"loop": true,
+"name": &"open_hand",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("4_4mygw")
+}],
+"loop": true,
+"name": &"pointing_hand",
+"speed": 5.0
+}]
