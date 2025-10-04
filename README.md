@@ -41,14 +41,13 @@ Be sure to go do Project > Project Settings > Input Map then add the relevant ac
 # assets
 
 The assets and ressources included here are just examples from the Cursor Pack (1.1) from [Kenney](www.kenney.nl)
-which is licensed as (Creative Commons Zero, CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+which is licensed as [Creative Commons Zero, CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
 So it's free to use in personal, educational and commercial projects.
 
 You can download the full pack there, more information
 
-Donate:   http://support.kenney.nl
-Patreon:  http://patreon.com/kenney/
-
-Follow on [Twitter](http://twitter.com/KenneyNL) for updates:
+- Donate:   http://support.kenney.nl
+- Patreon:  http://patreon.com/kenney/
+- Follow on [Twitter](http://twitter.com/KenneyNL) for updates:
 	

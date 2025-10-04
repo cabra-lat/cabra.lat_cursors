@@ -1,0 +1,27 @@
+{
+  "name": "@cabra-lat/cursors",
+  "version": "1.0.0",
+  "description": "An addon for simplifying the addition of cursors.",
+  "keywords": [
+    "godot",
+    "godot-engine"
+  ],
+  "homepage": "https://github.com/cabra-lat/cabra.lat_cursors#readme",
+  "bugs": {
+    "url": "https://github.com/cabra-lat/cabra.lat_cursors/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabra-lat/cabra.lat_cursors.git"
+  },
+  "license": "MIT",
+  "author": "Cabra Lat",
+  "type": "commonjs",
+  "main": "plugin.gd",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
