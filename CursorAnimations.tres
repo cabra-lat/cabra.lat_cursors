@@ -1,15 +1,15 @@
 [gd_resource type="SpriteFrames" load_steps=5 format=3 uid="uid://ck1vubnsca3d1"]
 
-[ext_resource type="Texture2D" uid="uid://ccd0i6p2hmg7e" path="res://addons/cabra.lat_cursor/assets/pull.png" id="1_58t8v"]
-[ext_resource type="Texture2D" uid="uid://diveboxs5hyrk" path="res://addons/cabra.lat_cursor/assets/cross_small.png" id="2_hovrm"]
-[ext_resource type="Texture2D" uid="uid://ircx34i6cdkq" path="res://addons/cabra.lat_cursor/assets/cursor.png" id="3_0vkk3"]
-[ext_resource type="Texture2D" uid="uid://cwqud7wx1eipb" path="res://addons/cabra.lat_cursor/assets/interact.png" id="4_4mygw"]
+[ext_resource type="Texture2D" uid="uid://dryos3hobuepy" path="res://addons/cabra.lat_cursors/assets/pull.png" id="1_6mg4h"]
+[ext_resource type="Texture2D" uid="uid://bs7p6kn2dh5f1" path="res://addons/cabra.lat_cursors/assets/cross_small.png" id="2_kpdc6"]
+[ext_resource type="Texture2D" uid="uid://l41ee7mdv72n" path="res://addons/cabra.lat_cursors/assets/cursor.png" id="3_g6fgt"]
+[ext_resource type="Texture2D" uid="uid://dq2ymerijgxr4" path="res://addons/cabra.lat_cursors/assets/interact.png" id="4_hdvbh"]
 
 [resource]
 animations = [{
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("1_58t8v")
+"texture": ExtResource("1_6mg4h")
 }],
 "loop": true,
 "name": &"closed_hand",
@@ -17,7 +17,7 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("2_hovrm")
+"texture": ExtResource("2_kpdc6")
 }],
 "loop": true,
 "name": &"cross",
@@ -25,7 +25,7 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("3_0vkk3")
+"texture": ExtResource("3_g6fgt")
 }],
 "loop": true,
 "name": &"open_hand",
@@ -33,7 +33,7 @@ animations = [{
 }, {
 "frames": [{
 "duration": 1.0,
-"texture": ExtResource("4_4mygw")
+"texture": ExtResource("4_hdvbh")
 }],
 "loop": true,
 "name": &"pointing_hand",
